@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_airplane">Airplane mode</string>
+    <string name="screenshot_saving_ticker">Saving screenshot…</string>
+    <string name="screenshot_saving_title">Saving screenshot…</string>
+    <string name="accessibility_no_wifi">No Wi-Fi.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+</resources>
