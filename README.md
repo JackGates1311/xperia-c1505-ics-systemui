@@ -67,7 +67,7 @@ This repository contains **decompiled and patched Smali source code** of the **S
 
 ---
 
-## 🔧 How to Modify and Rebuild the Settings App (Smali Code)
+## 🔧 How to Modify and Rebuild the SystemUI App (Smali Code)
 
 ### 1. **Prepare the Environment**
 
