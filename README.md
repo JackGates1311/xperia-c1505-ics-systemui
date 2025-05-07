@@ -91,13 +91,13 @@ You’ll need **Apktool** and **Smali/Baksmali** to work with the decompiled APK
 
 ---
 
-### 2. **Decompile the Settings APK (not needed, already is decompiled)**
+### 2. **Decompile the SystemUI APK (not needed, already is decompiled)**
 
-To make changes to the **Settings app**, decompile it into a working folder.
+To make changes to the **SystemUI app**, decompile it into a working folder.
 
 - **Command to decompile**:
 ```bash
-apktool d systemui_port/apks/SystemUI_rev8.apk -o Settings
+apktool d systemui_port/apks/SystemUI_rev8.apk -o SystemUI_rev8
 ```
 ### 3. Modify the Smali Code
 
